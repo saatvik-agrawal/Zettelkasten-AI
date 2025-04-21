@@ -1,11 +1,13 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "zettelkasten-ai", 
+	"name": "Zettelkasten AI",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
-}
+	"description": "An Obsidian plugin that suggests intentional links, splits notes into atomic Zettels, and chats with your vault using explainable, GPT-powered reasoning.",
+	"author": "Saatvik Agrawal",
+	"authorUrl": "https://github.com/yourusername",
+	"main": "main.js", 
+	"supportUrl": "https://buymeacoffee.com/yourpage"
+  }
+  
+
